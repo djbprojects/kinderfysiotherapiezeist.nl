@@ -1,0 +1,19 @@
+#navcol-1 {
+}
+
+.navbar-brand.text-center.text-sm-center.text-md-center.text-lg-center.text-xl-center {
+  float: none;
+  vertical-align: top;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+a {
+}
+
